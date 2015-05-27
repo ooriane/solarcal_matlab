@@ -3,4 +3,4 @@
 - delta.m calcul de la déclinaison en fonction du jour de l'année
 - soleil_ah.m et soleil_xyz.m calcul des coordonnées du Soleil soit en (azimut, hauteur) soit en coordonnées cartésiennes en fonction du jour, de l'heure solaire et de la latitude
 
-pour plus d'informations voir [http://wiki.osefrance.org/doku.php?id=wiki:trajectoire_du_soleil]
+pour plus d'informations sur les variables et les calculs, voir la page du wiki de référence [Trajectoire du Soleil](http://wiki.osefrance.org/doku.php?id=wiki:trajectoire_du_soleil)
